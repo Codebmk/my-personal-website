@@ -1,0 +1,3 @@
+## NEXTjs CRUD setup
+
+..loading
