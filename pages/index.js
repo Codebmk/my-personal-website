@@ -1,7 +1,10 @@
+import Head from "next/head";
+import Nav from "../components/Nav";
+
 export default function Home() {
   return (
     <div>
-      <h1>I am great</h1>
+      <Nav />
     </div>
   )
 }
